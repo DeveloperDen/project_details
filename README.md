@@ -14,6 +14,7 @@
  3. MedicineApp = [download apk](https://github.com/DeveloperDen/project_details/blob/master/apk/medicineapp.apk?raw=true)
  3. MaalGaadi-Customer = [download apk](https://github.com/DeveloperDen/project_details/blob/master/apk/maadlaadi-user.apk?raw=true)
  3. MaalGaadi-Driver = [download apk](https://github.com/DeveloperDen/project_details/blob/master/apk/maalgaadi-driver.apk?raw=true)
+ 3. BinitAll = [download apk](https://github.com/DeveloperDen/project_details/blob/master/apk/BinitAll.apk?raw=true)
  
  # Contact Us
  
